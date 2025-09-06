@@ -10,10 +10,14 @@ Passionate about logic buiding and and eager about Problem Solving.
 - Buiding meaningful Projects
 
 ## About Me: 
+-🎓CS Student.
 
--🎓 CS Student
--💡  Passionate about problem solving
--🚀 Exploring projects to sharpen programming skills
-=🌱 Currently learning Java OOP and building coding logic
--🤖 Interested in AI/ML but focusing on Java foundations first
--✨ Aspiring to become a good programmer and build useful apps.
+-💡Passionate about problem solving.
+
+-🚀Exploring projects to sharpen programming skills.
+
+=🌱Currently learning Java OOP and building coding logic.
+
+-🤖Interested in AI/ML but focusing on Java foundations first.
+
+-✨Aspiring to become a good programmer and build useful apps.
