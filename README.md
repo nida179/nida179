@@ -16,7 +16,7 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 
 -🚀Exploring projects to sharpen programming skills.
 
-=🌱Currently learning Java OOP and building coding logic.
+-🌱Currently learning Java OOP and building coding logic.
 
 -🤖Interested in AI/ML but focusing on Java foundations first.
 
