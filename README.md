@@ -3,13 +3,14 @@
 Passionate about logic buiding and and eager about Problem Solving.
 - 🔭 I’m currently learning OOPS(Object-oriented Programming).
 
-#Current Focus
+## Current Focus
 - JAVA
 - OOPs
 - Problem Solving
 - Buiding meaningful Projects
 
-#About Me: 
+## About Me: 
+
 -🎓 CS Student
 -💡  Passionate about problem solving
 -🚀 Exploring projects to sharpen programming skills
