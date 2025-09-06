@@ -1,6 +1,6 @@
 ## NIDA HAFEEZ 
 
-Passionate about logic buiding and and eager about Problem Solving.
+Passionate about logic buiding and eager to grow through Problem Solving and real-world projects.
 - 🔭 I’m currently learning OOPS(Object-oriented Programming).
 
 ## Current Focus
