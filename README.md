@@ -1,5 +1,5 @@
 ### NIDA HAFEEZ 
-##Hi 👋 I'm Nida Hafeez
+## Hi 👋 I'm Nida Hafeez
 
 Passionate about logic buiding and eager to grow through Problem Solving and real-world projects.
 - 🎓 I’m currently learning OOPS(Object-oriented Programming). Learning Java, C++, OOP, and Data Structure
