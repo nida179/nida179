@@ -1,13 +1,14 @@
 ### NIDA HAFEEZ 
-#Hi 👋 I'm Nida Hafeez
+##Hi 👋 I'm Nida Hafeez
 
 Passionate about logic buiding and eager to grow through Problem Solving and real-world projects.
 - 🎓 I’m currently learning OOPS(Object-oriented Programming). Learning Java, C++, OOP, and Data Structure
-- Aspiring Software Engineer | Interested in building meaningful projects
+-  👩‍🎓 Aspiring Software Engineer | Interested in building meaningful projects
 
 ---
 ## 🛠 Tech Stack
 - **Languages:** Java, C++, Python
+
 - **Core Concepts:** OOP, Basic DSA, Problem Solving
 
 ## 📌 Features Projects
@@ -24,14 +25,20 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 
 ## About Me: 
 -🎓CS Student.
+
 -💡Passionate about problem solving.
+
 -🚀Exploring projects to sharpen programming skills.
+
 -🌱Currently learning Java OOP and building coding logic.
+
 -🤖Interested in AI/ML but focusing on Java foundations first.
+
 -✨Aspiring to become a good programmer and build useful apps.
 
 ---
 
 ## 📨📬 Conec Withe Me
 -GitHub: [github.com/nida179] 
+
 -Emai: [nidahafeez31@gmail.com]
