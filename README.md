@@ -41,11 +41,11 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=nida179&theme=radical)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?nida179&show_icons=true&theme=radical)
-
 ## 💻 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nida179&layout=compact&theme=radical)
+- JAVA
+- C++
+
 
 ## 📨📬 Conec Withe Me
 -GitHub: [github.com/nida179] 
