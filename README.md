@@ -44,7 +44,7 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 - C++
 
 
-## 📨📬 Conec Withe Me
+## 📨📬 Connect Withe Me
 -GitHub: [github.com/nida179] 
 
 -Emai: [nidahafeez31@gmail.com]
