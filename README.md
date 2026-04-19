@@ -2,7 +2,7 @@
 ## Hi 👋 I'm Nida Hafeez
 
 Passionate about logic buiding and eager to grow through Problem Solving and real-world projects.
-- 🎓 I’m currently learning OOP (Object-oriented Programming). Learning Java, C++, OOP, and Data Structure
+- 🎓 I’m currently learning DSA (Data Structure and Application). Learning Java, C++, OOP, and Data Structure
 - 👩‍🎓 Interested in building meaningful projects
 
 ---
