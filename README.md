@@ -37,9 +37,6 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 
 ## 🔥 GitHub Streak
   ![GitHub Streak](https://streak-stats.demolab.com?user=nida179&theme=radical)
-
- ![Profile Views](https://komarev.com/ghpvc/?username=nida179&color=blueviolet)
-
 ---
 
 ## 🛠️ Skills & Technologies
