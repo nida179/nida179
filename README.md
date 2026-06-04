@@ -51,8 +51,8 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF6347?style=flat)
 
 ---
-## 📨📬 Connect Withe Me
--GitHub: [github.com/nida179] 
+## 📨📬 Connect With Me
+-GitHub: [github.com/nida179](https://github.com/nida179) 
 
--Emai: [nidahafeez31@gmail.com]
+-Email: [nidahafeez31@gmail.com]
 
