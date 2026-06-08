@@ -16,10 +16,10 @@ Passionate about logic buiding and eager to grow through Problem Solving and rea
 ## 🚀 Goals for 2026
 
 - [x] Build strong foundation in DSA (C++)
-- [ ] Complete Graphs topic and finish DSA course
-- [ ] Start solving problems on LeetCode / Codeforces
+- [x] Complete Graphs topic and finish DSA course
+- [x] Start solving problems on LeetCode / Codeforces
 - [ ] Build and push real-world projects
-- [ ] Improve GitHub consistency & green contributions
+- [x] Improve GitHub consistency & green contributions
 - [ ] Prepare for internships and future tech roles
 
 ---
